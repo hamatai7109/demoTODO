@@ -1,0 +1,10 @@
+.add {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  width: 70%;
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+}
